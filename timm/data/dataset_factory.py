@@ -17,7 +17,7 @@ except ImportError:
     has_inaturalist = False
 
 from .dataset import IterableImageDataset, ImageDataset, IterableImageDatasetICGEN
-from meta_album.dataset import StandardDataset
+from timm.meta_album.dataset import StandardDataset
 
 _TORCH_BASIC_DS = dict(
     cifar10=CIFAR10,

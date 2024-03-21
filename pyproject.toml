@@ -3,7 +3,7 @@ name = "timm"
 version = "2024.03.21"
 authors = [{ name = "Ivo Rapant", email = "rapanti@cs.uni-freiburg.de" }]
 readme = "README.md"
-description = "Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How"
+description = "TIMM repo for Quick-Tune"
 classifiers = [
   'Intended Audience :: Science/Research',
   'Intended Audience :: Developers',
